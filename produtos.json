@@ -1,0 +1,29 @@
+[
+  {
+      "id": 1,
+      "nome": "Galaxy S23",
+      "marca": "Samsung",
+      "categoria": "Eletrônicos",
+      "preço": 4999.99,
+      "quantidadeEmEstoque": 100,
+      "disponivelParaProntaEntrega": true
+  },
+  {
+      "id": 2,
+      "nome": "Iphone",
+      "marca": "Apple",
+      "categoria": "Eletrônicos",
+      "preço": 10000.00,
+      "quantidadeEmEstoque": 300,
+      "disponivelParaProntaEntrega": true
+  },
+  {
+      "id": 3,
+      "nome": "Redmi Note 13",
+      "marca": "xiaomi",
+      "categoria": "Eletrônicos",
+      "preço": 1300.00,
+      "quantidadeEmEstoque": 20,
+      "disponivelParaProntaEntrega": false
+  }
+]
